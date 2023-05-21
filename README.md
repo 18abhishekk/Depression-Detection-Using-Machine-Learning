@@ -19,8 +19,8 @@ Used Various Libraries such as TextBlob,Pandas,Matplotlib,Seaborn,NLTK.
 ![image](https://github.com/18abhishekk/Depression-Detection-Using-Machine-Learning/assets/99329624/b3ac71cb-1cf3-42f2-a78c-27b7af55203f)
 
 # Result for non-depressed:
-![image](https://github.com/18abhishekk/Depression-Detection-Using-Machine-Learning/assets/99329624/7a5e8fe7-873b-4d30-8872-da5e9667e35d)
+<img src="https://github.com/18abhishekk/Depression-Detection-Using-Machine-Learning/assets/99329624/7a5e8fe7-873b-4d30-8872-da5e9667e35d" width="600" height="200" />
 
 # Result for depressed:
-![image](https://github.com/18abhishekk/Depression-Detection-Using-Machine-Learning/assets/99329624/72272c73-7a4b-4117-81b5-e4482e0ff129)
+<img src="https://github.com/18abhishekk/Depression-Detection-Using-Machine-Learning/assets/99329624/72272c73-7a4b-4117-81b5-e4482e0ff129" width="600" height="200" />
 
