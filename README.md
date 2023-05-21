@@ -9,7 +9,7 @@ Used Various Libraries such as TextBlob,Pandas,Matplotlib,Seaborn,NLTK.
 
 # Comparison of all the Machine Learning Algorithms used:
 
-![image](https://github.com/18abhishekk/Depression-Detection-Using-Machine-Learning/assets/99329624/c07506ae-4205-4291-9c31-a8d9efd9843d)
+![image](https://github.com/18abhishekk/Depression-Detection-Using-Machine-Learning/assets/99329624/c07506ae-4205-4291-9c31-a8d9efd9843d | width=100)
 
 
 # Frontend of our website:
